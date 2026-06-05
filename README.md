@@ -19,4 +19,5 @@ Python | NumPy | Pandas | Git | GitHub
 - Email: maaviarizwanullah@email.com
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maaviarizwan&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maaviarizwan&show_icons=true)
+
