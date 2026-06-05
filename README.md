@@ -7,9 +7,9 @@
 
 ## 🚀 Currently Learning
 - Machine Learning
-- Data Science
-- NumPy & Pandas
 - Deep Learning
+- Agentic Ai
+- Transformers 
 
 ## 🛠️ Technologies
 Python | NumPy | Pandas | Git | GitHub
