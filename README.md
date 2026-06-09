@@ -26,7 +26,7 @@
 
 ## 🧠 About Me
 
-```python
+python
 class MaaviaRizwan:
     def __init__(self):
         self.name      = "Maavia Rizwan"
@@ -34,21 +34,12 @@ class MaaviaRizwan:
         self.education = "BS Computer Science — Semester 1 🎓"
         self.location  = "Pakistan 🇵🇰"
 
-    @property
-    def current_research(self):
-        return {
-            "title"    : "Skin Lesion Classification via Deep Learning",
-            "dataset"  : "HAM10000",
-            "models"   : ["CNN", "Vision Transformer (ViT)", "Hybrid CNN-ViT"],
-            "target"   : ["MIDL", "ISBI"],
-            "hardware" : "Google Colab — T4 GPU 🔥",
-        }
+    
 
     @property
     def interests(self):
         return [
             "Computer Vision 👁️",
-            "Medical AI 🏥",
             "Deep Learning Research 🤖",
             "Building cool AI projects 🛠️",
         ]
@@ -59,24 +50,7 @@ class MaaviaRizwan:
 me = MaaviaRizwan()
 print(me.life_motto())
 # >> Wired for Intelligence. ⚡
-```
 
----
-
-## 🔬 Active Research Project
-
-<div align="center">
-
-| 🏷️ | Details |
-|---|---|
-| **Project** | Skin Lesion Multi-class Classification |
-| **Dataset** | HAM10000 (10,015 dermatoscopic images, 7 classes) |
-| **Models Compared** | CNN · Vision Transformer (ViT) · Hybrid CNN-ViT |
-| **Framework** | PyTorch + Google Colab (T4 GPU) |
-| **Target Venues** | MIDL · ISBI |
-| **Status** | 🟢 Active — Preprocessing Pipeline Complete |
-
-</div>
 
 ---
 
