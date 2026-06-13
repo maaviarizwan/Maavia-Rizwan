@@ -1,155 +1,89 @@
-<div align="center">
+<!-- HEADER ANIMATION -->
+<h1 align="center">
+  Hi 👋, I'm Maavia Rizwan
+</h1>
 
-<!-- ══════════════════════════════════════════════════════ -->
-<!--                   ANIMATED HEADER                      -->
-<!-- ══════════════════════════════════════════════════════ -->
+<h3 align="center">
+  💻 Passionate Developer | 🧠 AI & Data Enthusiast | 🚀 Tech Explorer
+</h3>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f2c,40:0d1b4b,80:0047AB,100:00d4ff&height=220&section=header&text=Maavia%20Rizwan&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20(in%20training)%20%E2%80%A2%20CS%20Student%20%E2%80%A2%20Python%20Developer&descAlignY=58&descSize=19&descColor=a8d8ff" />
-
-<!-- ══════════════════════════════════════════════════════ -->
-<!--                  TYPING ANIMATION                      -->
-<!-- ══════════════════════════════════════════════════════ -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&multiline=true&width=650&height=110&lines=🧠+CNN+%7C+ViT+%7C+Hybrid+Transformers+%7C+Computer+Vision;🔬+Skin+Lesion+Research+%E2%80%94+HAM10000+%7C+MIDL+%7C+ISBI;🚀+Building+projects+and+learning+every+day.)](https://git.io/typing-svg)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=maaviarizwan&style=for-the-badge&color=0047AB&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maavia%20Rizwan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maavia-rizwan)
-[![GitHub](https://img.shields.io/badge/GitHub-maaviarizwan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maaviarizwan)
-
-</div>
-
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;AI+%7C+Machine+Learning+%7C+Data+Science;Building+cool+projects+every+day;Always+learning+new+things+🚀" />
+</p>
 
 ---
 
-## 🧠 About Me
+## 🌟 About Me
 
-python
-class MaaviaRizwan:
-    def __init__(self):
-        self.name      = "Maavia Rizwan"
-        self.role      = "CS Student & Aspiring AI/ML Engineer 🚀"
-        self.education = "BS Computer Science — Semester 1 🎓"
-        self.location  = "Pakistan 🇵🇰"
-
-    
-
-    @property
-    def interests(self):
-        return [
-            "Computer Vision 👁️",
-            "Deep Learning Research 🤖",
-            "Building cool AI projects 🛠️",
-        ]
-
-    def life_motto(self):
-        return "Wired for Intelligence. ⚡"
-
-me = MaaviaRizwan()
-print(me.life_motto())
-# >> Wired for Intelligence. ⚡
-
+- 🔭 I’m currently working on **AI / Machine Learning Projects**
+- 🌱 I’m learning **Deep Learning, Computer Vision & Cloud**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Python, AI, Data Science**
+- ⚡ Fun fact: I love turning ideas into real projects 🚀
 
 ---
 
-## 🚀 Tech Stack & Tools
+## 🛠️ Tech Stack
 
-<div align="center">
+<p align="center">
 
-### 🐍 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,react,nodejs,github,git,vscode,tensorflow,pytorch,mysql" />
 
-### 🤖 AI · ML · Deep Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-### 📊 Data & Visualization
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🛠️ Tools & Platforms
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-
-</div>
+</p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=maaviarizwan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0f2c&title_color=00d4ff&icon_color=0047AB&text_color=c9d1d9" />
-&nbsp;&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaviarizwan&layout=compact&langs_count=8&hide_border=true&bg_color=0a0f2c&title_color=00d4ff&text_color=c9d1d9" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=maaviarizwan&hide_border=true&background=0a0f2c&stroke=0047AB&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maaviarizwan&bg_color=0a0f2c&color=00d4ff&line=0047AB&point=00d4ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maaviarizwan&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaviarizwan&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
 ---
 
-## 📚 Currently Learning
+## 🔥 Streak Stats
 
-<div align="center">
-
-```
-🧩  Vision Transformers (ViT) & Hybrid Architectures
-🔗  Attention Mechanisms & Self-Supervised Learning  
-🏗️  MLOps & Model Deployment
-🤝  Agentic AI & Multi-Agent Systems
-📡  Computer Networks
-📊  Big Data Analytics
-```
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maaviarizwan&theme=tokyonight" />
+</p>
 
 ---
 
-## 🌐 Let's Connect
+## 🏆 GitHub Trophies
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maavia-rizwan)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maaviarizwan)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maaviarizwanullah@email.com)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=maaviarizwan&theme=radical&no-frame=true&margin-w=10" />
+</p>
 
 ---
 
-<div align="center">
+## 🌍 Connect With Me
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The+best+way+to+predict+the+future+is+to+invent+it.&author=Alan+Kay" />
+<p align="center">
+  <a href="https://github.com/maaviarizwan">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
-</div>
+---
 
-<br/>
+## ✨ Visitor Counter
 
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0047AB,100:0a0f2c&height=130&section=footer" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=maaviarizwan&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🚀 Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
